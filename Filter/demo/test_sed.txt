@@ -1,0 +1,5 @@
+Bonjour Emma,
+Voici un exemple de texte.
+Emma travaille dur.
+Le chat est sur le toit.
+Fin du fichier.
